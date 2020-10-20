@@ -1,0 +1,22 @@
+{
+  "name": "Frontend_babel_webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/plugin-transform-runtime": "^7.12.1",
+    "@babel/preset-env": "^7.12.1",
+    "@babel/preset-react": "^7.12.1",
+    "axios": "^0.20.0",
+    "babel-loader": "^8.1.0",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "webpack": "4.42.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "3.3.11",
+    "webpack-dev-server": "3.7.1"
+  }
+}
